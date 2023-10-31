@@ -1,0 +1,47 @@
+{
+    "johndoe@gmail.com": {
+        "username": "John Doe",
+        "password": "1234",
+        "role": "1"
+    },
+    "jennydoe@gmail.com": {
+        "username": "Jenny Doe",
+        "password": "1234",
+        "role": "2"
+    },
+    "abdullotifkhan36@gmail.com": {
+        "username": "Abdul Latif",
+        "password": "1234",
+        "role": "3"
+    },
+    "karim@gmail.com": {
+        "username": "Karim",
+        "password": "1234",
+        "role": "3"
+    },
+    "shafiq@gmail.com": {
+        "username": "Shafiq",
+        "password": "1234",
+        "role": "2"
+    },
+    "mamun@gmail.com": {
+        "username": "Mamun",
+        "password": "1234",
+        "role": "3"
+    },
+    "lemon@gmail.com": {
+        "username": "Limon",
+        "password": "1234",
+        "role": "3"
+    },
+    "sumon@gmail.com": {
+        "username": "Sumon",
+        "password": "1234",
+        "role": "3"
+    },
+    "masum@gmail.com": {
+        "username": "Masum pervez",
+        "password": "1234",
+        "role": ""
+    }
+}
